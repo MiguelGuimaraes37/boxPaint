@@ -5,9 +5,9 @@ BINDS:
 
 MOVEMENT:
 
-- 🇼 -> Move up;
-- 🇦 -> Move left;
+- ⬆️ -> Move up;
+- ⬅️ -> Move left;
 - ⬇️ -> Move down;
-- 🇩 -> Move right.
+- ➡️ -> Move right.
 
 
