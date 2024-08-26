@@ -14,4 +14,8 @@ PAINT:
 
 - ⎵ -> Paint the current box selected.
 
+CURSOR SHAPE:
+
+- 🇭 -> Changes the cursor shape, example: □.
+
 
