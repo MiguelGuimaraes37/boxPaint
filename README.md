@@ -35,6 +35,10 @@ KEY M:
 
 - 🇲 -> Play a sound.
 
+Embedded Image Example:
+
+<img src="https://github.com/user-attachments/assets/81ad04dc-bb02-437c-ae83-559b9d1b058f" alt="Image from GitHub" style="max-width: 100%; height: auto;">
+
 I hope you have fun playing the game and try out all the binds, or at least the sound one...
 
 
