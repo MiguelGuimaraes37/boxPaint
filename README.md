@@ -10,4 +10,8 @@ MOVEMENT:
 - ⬇️ -> Move down;
 - ➡️ -> Move right.
 
+PAINT:
+
+- ⎵ -> Paint the current box selected.
+
 
