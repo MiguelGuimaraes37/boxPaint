@@ -16,6 +16,25 @@ PAINT:
 
 CURSOR SHAPE:
 
-- 🇭 -> Changes the cursor shape, example: □.
+- 🇭 -> Change the cursor shape and set the cursor shape back to default, example of cursor shape(not the default one): □.
+
+CLEAR:
+
+- 🇯 -> Clean the grid.
+
+EXIT:
+
+- 🇪 🇸 🇶 -> Close the game.
+
+FILE MANAGEMENT:
+
+- 🇸 -> Save the current drawing;
+- 🇱 -> Load the last drawing.
+
+KEY M:
+
+- 🇲 -> Play a sound.
+
+I hope you have fun playing the game and try out all the binds, or at least the sound one...
 
 
