@@ -35,9 +35,9 @@ KEY M:
 
 - 🇲 -> Play a sound.
 
-Embedded Image Example:
+Grid View:
 
-<img src="https://github.com/user-attachments/assets/81ad04dc-bb02-437c-ae83-559b9d1b058f" alt="Image from GitHub" style="max-width: 100%; height: auto;">
+<img src="https://github.com/user-attachments/assets/e7dcc6df-def5-4774-928a-0417a2c4fa66" alt="Image from GitHub" style="max-width: 100%; height: auto;">
 
 I hope you have fun playing the game and try out all the binds, or at least the sound one...
 
