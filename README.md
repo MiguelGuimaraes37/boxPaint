@@ -12,7 +12,7 @@ MOVEMENT:
 
 PAINT:
 
-- ⎵ -> Paint the current box selected.
+- ⎵ -> Paint or remove paint of the current box selected.
 
 CURSOR SHAPE:
 
